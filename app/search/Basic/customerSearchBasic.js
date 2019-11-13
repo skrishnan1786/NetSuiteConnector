@@ -1,6 +1,6 @@
 "use strict";
 
-const Basic = require("./common/Basic");
+const Basic = require("./common/basic");
 
 class CustomerSearchBasic extends Basic {
 
