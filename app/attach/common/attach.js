@@ -1,6 +1,6 @@
 "use strict";
 
-const AttachRequest = require("../attachRequest");
+const AttachRequest = require("../attachrequest");
 
 class Attach extends AttachRequest {
 
